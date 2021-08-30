@@ -2,9 +2,7 @@
     <h3>{{contato.nome}}</h3>
     <h4>{{contato.email}}</h4>
     <ul>
-        <li><a href="tel:9999999999">{{contato.telefones}}</a></li>
-        <li><a href="tel:9999999999">{{contato.telefones}}</a></li>
-        <li><a href="tel:9999999999">{{contato.telefones}}</a></li>
+        <li *ngFor="let telefone of contato.telefones"><a href="telefone:{{telefone}}">{{telefone}}</a></li>
     </ul>
     <a href="#">Editar</a>
 </section>
