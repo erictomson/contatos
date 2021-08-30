@@ -10,52 +10,52 @@ export class ListaDeContatosComponent implements OnInit {
 
   contatos: Contato[] = [
     {
-      nome: "<ariana Ribeiro 1",
+      nome: "Mariana Ribeiro 1",
       email: "mariana@teste.com",
       telefones: ['1111-1111']
     },
     {
-      nome: "<ariana Ribeiro 2",
+      nome: "Mariana Ribeiro 2",
       email: "mariana@teste.com",
       telefones: ['1111-1111']
     },
     {
-      nome: "<ariana Ribeiro 3",
+      nome: "Mariana Ribeiro 3",
       email: "mariana@teste.com",
       telefones: ['1111-1111']
     },
     {
-      nome: "<ariana Ribeiro 4",
+      nome: "Mariana Ribeiro 4",
       email: "mariana@teste.com",
       telefones: ['1111-1111']
     },
     {
-      nome: "<ariana Ribeiro 5",
+      nome: "Mariana Ribeiro 5",
       email: "mariana@teste.com",
       telefones: ['1111-1111']
     },
     {
-      nome: "<ariana Ribeiro 6",
+      nome: "Mariana Ribeiro 6",
       email: "mariana@teste.com",
       telefones: ['1111-1111']
     },
     {
-      nome: "<ariana Ribeiro 7",
+      nome: "Mariana Ribeiro 7",
       email: "mariana@teste.com",
       telefones: ['1111-1111']
     },
     {
-      nome: "<ariana Ribeiro 1",
+      nome: "Mariana Ribeiro 1",
       email: "mariana@teste.com",
       telefones: ['1111-1111']
     },
     {
-      nome: "<ariana Ribeiro 8",
+      nome: "Mariana Ribeiro 8",
       email: "mariana@teste.com",
       telefones: ['1111-1111']
     },
     {
-      nome: "<ariana Ribeiro 9",
+      nome: "Mariana Ribeiro 9",
       email: "mariana@teste.com",
       telefones: ['1111-1111']
     }];
