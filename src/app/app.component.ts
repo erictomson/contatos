@@ -11,7 +11,7 @@ export class AppComponent {
   mostrandoModal = false;
 
   mostrarModal(){
-    console.log("Eu te escutei, meu filho!");
+    // console.log("Eu te escutei, meu filho!");
     this.mostrandoModal=true;
   }
 

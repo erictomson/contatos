@@ -15,7 +15,7 @@ export class CreateContatoComponent implements OnInit {
   }
 
   cancelar():void {
-    console.log("Pediu para cancelar");
+    // console.log("Pediu para cancelar");
     this.onCancelarClick.emit();
   }
 

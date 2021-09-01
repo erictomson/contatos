@@ -15,8 +15,8 @@ export class MenuComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  mostrarModalClick() {
-    console.log("Cliquei para abrir o modal");
+  adicionarContato() {
+    // alert("Cliquei para abrir o modal");
     this.onAddContatoClick.emit();
   }
 
