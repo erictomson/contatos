@@ -8,7 +8,7 @@ import { Component, Input } from '@angular/core';
 })
 export class AppComponent {
   title = 'contatos';
-  mostrandoModal = false;
+  mostrandoModal = true;
 
   mostrarModal(){
     // console.log("Eu te escutei, meu filho!");
